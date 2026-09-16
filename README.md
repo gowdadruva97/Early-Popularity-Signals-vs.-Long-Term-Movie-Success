@@ -1,5 +1,3 @@
-# Early-Popularity-Signals-vs.-Long-Term-Movie-Success
-
 This project investigates whether early audience engagement signals predict a movie's long-term success (measured by IMDb vote count) better than traditional production-based features, using an integrated dataset of 36,188 movies built from IMDb, MovieLens, and TMDB.
 
 Models Implemented
